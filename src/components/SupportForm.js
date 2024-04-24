@@ -61,8 +61,7 @@ function SupportForm() {
           <div className="form-group">
             <p>You may print and attach the following printable form and make checks payable to
               "<strong>HMI-P</strong>" and include the
-              <strong> full name
-                of the team member and "TODO 24"</strong> in the memo. <br/> You may mail
+              <strong>"Peru Yushi Austin Yasuda"</strong> in the memo. <br/> You may mail
               contributions to: <i>HMCC, 928 E Ann St, Ann Arbor, MI 48104.</i></p>
           </div>
           <form>
