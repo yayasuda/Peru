@@ -7,7 +7,3 @@ I will be joining a team of 6 members from Harvest Mission Community Church in A
 If I were to summarize my lessons to one thing that I have learned from God over these four and a half years, it is that no matter how much work I put in, without God, there are limits, but through Him, all things are possible. While we spiritually and physically train to prepare for the trip, it would be great if you could support us first through prayer. My prayer request is for the people we meet in Peru to be able to feel God’s love for them, for the team to have the love and energy to share the Gospel while experiencing the Gospel for ourselves, and finally, for me to rejoice in the Lord and His works as I take part in it. I also aim to raise $3000 by June 10th to cover the various expenses of this project. Even a small amount means a lot for my team and me as we prepare for this mission. As one Church, I hope you will prayerfully consider advancing God’s kingdom by joining us in this ministry.
 
 Thank you for your time!
-
-God bless,
-
-Yushi Austin Yasuda

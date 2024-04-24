@@ -46,8 +46,7 @@ function SupportForm() {
         </div>
         <p style={{'margin-bottom': 0}}>Electronic giving is available
           <a href={'https://app.managedmissions.com/Donations/Donate/77439'}
-             className="link-offset-2 link-offset-3-hover link-underline link-underline-opacity-0 link-underline-opacity-75-hover mx-1 my-1">here</a>, but please note there is an additional administrative fee.</p>
-        {/* </div> */}
+             className="link-offset-2 link-offset-3-hover link-underline  mx-1 my-1">via this site</a>, but please note there is an additional administrative fee.</p>
         <hr style={{'border-top': '3px dotted'}}/>
         <div className='form-to-print'>
         <div className="row">
@@ -60,7 +59,7 @@ function SupportForm() {
           </div>
         </div>
           <div className="form-group">
-            <p>You may print the attach the following printable form and make checks payable to
+            <p>You may print and attach the following printable form and make checks payable to
               "<strong>HMI-P</strong>" and include the
               <strong> full name
                 of the team member and "TODO 24"</strong> in the memo. <br/> You may mail
