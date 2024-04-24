@@ -1,0 +1,19 @@
+.p {
+    text-align: left;
+}
+
+.banner{
+    width: 100%;
+    /*max-width: ;*/
+    height: auto;
+}
+
+.signature {
+    /*width: 10%;*/
+    /*height: auto;*/
+    /*max-height: 5%;*/
+    /*max-width: ;*/
+    max-width: 100%;
+    display: block;
+    height: auto;
+}
