@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/Peru/static/css/main.13012792.css",
-    "main.js": "/Peru/static/js/main.d2c69bcc.js",
+    "main.js": "/Peru/static/js/main.49e8412e.js",
     "static/js/453.6688f213.chunk.js": "/Peru/static/js/453.6688f213.chunk.js",
     "static/media/peru_stock.jpg": "/Peru/static/media/peru_stock.5bd597223aa779f93d82.jpg",
-    "static/media/signature_eng.png": "/Peru/static/media/signature_eng.19372666b3528168e63d.png",
-    "static/media/letter_body.md": "/Peru/static/media/letter_body.beca46a4770db75acc6a.md",
+    "static/media/signature_eng.svg": "/Peru/static/media/signature_eng.0060cd85f2ebe1d311cfca762b0289da.svg",
+    "static/media/letter_body.md": "/Peru/static/media/letter_body.bd7b15fa50902b5869f8.md",
     "static/media/logo.svg": "/Peru/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Peru/index.html",
     "main.13012792.css.map": "/Peru/static/css/main.13012792.css.map",
-    "main.d2c69bcc.js.map": "/Peru/static/js/main.d2c69bcc.js.map",
+    "main.49e8412e.js.map": "/Peru/static/js/main.49e8412e.js.map",
     "453.6688f213.chunk.js.map": "/Peru/static/js/453.6688f213.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.13012792.css",
-    "static/js/main.d2c69bcc.js"
+    "static/js/main.49e8412e.js"
   ]
 }
