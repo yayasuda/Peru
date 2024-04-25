@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Peru/static/css/main.13012792.css",
-    "main.js": "/Peru/static/js/main.a2bd7c82.js",
+    "main.js": "/Peru/static/js/main.82bf9bb4.js",
     "static/js/453.6688f213.chunk.js": "/Peru/static/js/453.6688f213.chunk.js",
     "static/media/peru_stock.jpg": "/Peru/static/media/peru_stock.5bd597223aa779f93d82.jpg",
     "static/media/signature_eng.svg": "/Peru/static/media/signature_eng.0060cd85f2ebe1d311cfca762b0289da.svg",
@@ -9,11 +9,11 @@
     "static/media/logo.svg": "/Peru/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Peru/index.html",
     "main.13012792.css.map": "/Peru/static/css/main.13012792.css.map",
-    "main.a2bd7c82.js.map": "/Peru/static/js/main.a2bd7c82.js.map",
+    "main.82bf9bb4.js.map": "/Peru/static/js/main.82bf9bb4.js.map",
     "453.6688f213.chunk.js.map": "/Peru/static/js/453.6688f213.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.13012792.css",
-    "static/js/main.a2bd7c82.js"
+    "static/js/main.82bf9bb4.js"
   ]
 }
